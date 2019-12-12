@@ -1,0 +1,33 @@
+body {
+    background-color: lightgray;
+}
+
+p {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+#angelfeather h1  {
+    background-color: gold;
+    border: solid black;
+}
+
+#genesis h1 {
+    background-color: gold;
+    border: solid black;
+}
+
+#nubatama h1 {
+    background-color: red;
+    border: solid black;
+}
+
+#novagrappler h1 {
+    background-color: gray;
+    border: solid black;
+}
+
+p::first-letter {
+    text-decoration: underline;
+    font-size: 1.5em;
+}
+
