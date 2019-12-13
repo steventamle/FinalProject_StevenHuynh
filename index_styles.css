@@ -61,4 +61,8 @@ p::first-letter {
     border-radius: 12px 12px 0px 0px;
 }
 
-
+footer {
+    color: red;
+    font-size: 3em;
+    -webkit-text-stroke: 1.3px blue;
+}
